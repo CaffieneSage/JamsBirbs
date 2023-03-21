@@ -36,6 +36,11 @@ body {
   padding-right: 20px;
 }
 
+.cute{
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
 .Bottom_Crap{
   position: fixed;
   bottom: 0px;
