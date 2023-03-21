@@ -41,6 +41,23 @@ body {
   margin-left: 10px;
 }
 
+.hatching{
+  background-color: beige;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.brooding{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.common_problems{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 .Bottom_Crap{
   position: fixed;
   bottom: 0px;
